@@ -1,0 +1,2 @@
+# Data_analysis_practice_telecom_customer_churn
+Kaggle competition practice
